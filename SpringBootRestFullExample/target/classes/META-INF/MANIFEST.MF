@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootRestFullExample
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: NNM6KOR
+Implementation-Vendor-Id: com.bosch.com
+Build-Jdk: 1.8.0_201
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBootRe
+ stFullExample/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
